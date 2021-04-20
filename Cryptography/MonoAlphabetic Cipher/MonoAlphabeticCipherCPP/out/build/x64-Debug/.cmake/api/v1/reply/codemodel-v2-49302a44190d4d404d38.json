@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MonoAlphabeticCipherCPP",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MonoAlphabeticCipherCPP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MonoAlphabeticCipherCPP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MonoAlphabeticCipherCPP::@c2357e0025986575d4f2",
+					"jsonFile" : "target-MonoAlphabeticCipherCPP-Debug-c5a1788798fd0ee528bb.json",
+					"name" : "MonoAlphabeticCipherCPP",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Workspace/cyber-security-course/Cryptography/MonoAlphabetic Cipher/MonoAlphabeticCipherCPP/out/build/x64-Debug",
+		"source" : "D:/Workspace/cyber-security-course/Cryptography/MonoAlphabetic Cipher/MonoAlphabeticCipherCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

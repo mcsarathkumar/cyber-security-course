@@ -1,0 +1,6 @@
+# ninja log v5
+0	1668	6406195485280885	MonoAlphabeticCipherCPP/CMakeFiles/MonoAlphabeticCipherCPP.dir/MonoAlphabeticCipherCPP.cpp.obj	438bd82ae6d58c51
+1671	2820	6406195496351480	MonoAlphabeticCipherCPP/MonoAlphabeticCipherCPP.exe	c3bd1c6490e0b3dc
+0	20	0	clean	9992afb1f91dc381
+1	775	6406195624696022	MonoAlphabeticCipherCPP/CMakeFiles/MonoAlphabeticCipherCPP.dir/MonoAlphabeticCipherCPP.cpp.obj	438bd82ae6d58c51
+776	1088	6406195627265992	MonoAlphabeticCipherCPP/MonoAlphabeticCipherCPP.exe	c3bd1c6490e0b3dc
